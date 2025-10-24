@@ -12,3 +12,5 @@ Process management (ps, top, kill)
 Networking (ping, curl, netstat)
 
 Redirection and pipes (>, >>, |, <)
+
+2. Command substitution takes the output of a command and stores it inside a variable
