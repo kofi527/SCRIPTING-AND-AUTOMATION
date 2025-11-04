@@ -14,3 +14,5 @@ Networking (ping, curl, netstat)
 Redirection and pipes (>, >>, |, <)
 
 2. Command substitution takes the output of a command and stores it inside a variable
+
+3. Shebang (#!): The first line of a script, e.g., #!/bin/bash, specifies the interpreter to use for executing the script.
